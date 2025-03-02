@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on YouTube backend clone.<br>👯 I’m looking to build full stack YouTube clone in future.<br>🤝 I’m looking for help with Internship.<br>🌱 I’m currently learning React JS.<br>💬 Ask me about Backend.<br>⚡ Fun fact I'm Unknown User FR!!!!!
+🔭 Proficient in designing and implementing server-side applications using languages such as Java, Python, and Node.js, ensuring optimal performance and scalability.
+🏹 Eager to engage in cross-functional teamwork, bringing a collaborative spirit to every project and adapting to new tools and languages as the industry evolves. 
+🔑 Have a pretty good knowledge of backend development and currently enhancing skills in microservices and architecture.
 
 
 ## 🌐 Socials:
