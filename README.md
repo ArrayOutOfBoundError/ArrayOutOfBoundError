@@ -1,7 +1,9 @@
 💫 About Me:<br>
-🔭 Proficient in designing and implementing server-side applications using languages such as Java, Python, and Node.js, ensuring optimal performance and scalability.<br>
-🏹 Eager to engage in cross-functional teamwork, bringing a collaborative spirit to every project and adapting to new tools and languages as the industry evolves.<br>
-🔑 Have a pretty good knowledge of backend development and currently enhancing skills in microservices and architecture.<br>
+🔭 Proficient in designing and implementing server-side applications using Node.js, ensuring optimal performance and scalability.<br>
+🏹 Eager to engage in cross-functional teamwork, bringing a collaborative spirit to every project and adapting to new tools and languages as the industry evolves.
+<br>
+🔑 Have a pretty good knowledge of backend development and currently enhancing skills in microservices and architecture.
+<br>
 
 
 ## 🌐 Socials:
